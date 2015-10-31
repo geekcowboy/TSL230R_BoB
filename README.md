@@ -1,0 +1,4 @@
+# TSL230R_BoB
+Breakout Board for the TSL230R Light-to-Frequnecy Converter
+
+Order PCB from OSH Park: https://oshpark.com/shared_projects/PTr8h8xv
